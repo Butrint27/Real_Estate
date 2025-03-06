@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserMicroservice", "UserMicroservice\UserMicroservice.csproj", "{44B869D4-04A1-49ED-A93A-5BDD5097F200}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIGateway", "APIGateway\APIGateway.csproj", "{831959E8-3C6B-47CB-904C-22B48FD5990A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{44B869D4-04A1-49ED-A93A-5BDD5097F200}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{44B869D4-04A1-49ED-A93A-5BDD5097F200}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{44B869D4-04A1-49ED-A93A-5BDD5097F200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{831959E8-3C6B-47CB-904C-22B48FD5990A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{831959E8-3C6B-47CB-904C-22B48FD5990A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{831959E8-3C6B-47CB-904C-22B48FD5990A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{831959E8-3C6B-47CB-904C-22B48FD5990A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
